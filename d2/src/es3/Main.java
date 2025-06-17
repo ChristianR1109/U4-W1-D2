@@ -27,7 +27,7 @@ public class Main {
                 for (int i = 0; i < n; i++) {
                     s3 += (s1.charAt(i) + ",");
                 }
-                int n2 = s3.length();
+                
 
                 System.out.println(s3);
             }
